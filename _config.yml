@@ -1,10 +1,8 @@
 # Site settings
-my-title 
-title: "Resume 2"
-description: "Testing out a resume."
-=======
+
 title: "Resumes are for testing"
 description: "testing a conflict"
+master
 master
 
 # Build settings
