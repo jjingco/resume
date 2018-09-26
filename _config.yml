@@ -1,6 +1,11 @@
 # Site settings
+my-title 
+title: "Resume"
+description: "Testing out a resume."
+=======
 title: "Resumes are for testing"
 description: "testing a conflict"
+master
 
 # Build settings
 markdown: kramdown
